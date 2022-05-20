@@ -113,10 +113,8 @@
       font-family:monospace;
       font-size:20px;
   }
-  #robot{
-      display:flex;
-      align-items:center;
-  }
+ 
+  
    
   .msgCon1, .msgCon2{
       width:100%;
